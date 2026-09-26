@@ -6,7 +6,7 @@ from parsel           import Selector
 class SezonlukDizi(PluginBase):
     name        = "SezonlukDizi"
     language    = "tr"
-    main_url    = "https://sezonlukdizi6.com"
+    main_url    = "https://sezonlukdizi.cc"
     favicon     = f"https://www.google.com/s2/favicons?domain={main_url}&sz=64"
     description = "Güncel ve eski dizileri en iyi görüntü kalitesiyle bulabileceğiniz yabancı dizi izleme siteniz."
 
